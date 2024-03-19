@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. `yarn install`
 2. `yarn start`
 3. Check TestSig.js - there are 2 methods to test the signature `checkSigCorrectMessage` + `checkSigWrongMessage`
-4. On the UI there are two buttons to test the two methods. 
+4. On the UI there are two buttons to test the two methods. Inside the previous methods are visible all params we are sending
 
 
 In the project directory, you can run:
